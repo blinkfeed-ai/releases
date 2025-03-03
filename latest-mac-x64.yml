@@ -1,0 +1,8 @@
+version: 1.5.1
+path: blinkfeed-1.5.1-macos-x64.zip
+sha512: WILL_BE_REPLACED_BY_ELECTRON_BUILDER
+releaseDate: 2025-03-03T23:17:53.343Z
+files:
+  - url: blinkfeed-1.5.1-macos-x64.zip
+    sha512: WILL_BE_REPLACED_BY_ELECTRON_BUILDER
+    size: WILL_BE_REPLACED_BY_ELECTRON_BUILDER
