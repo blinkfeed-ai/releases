@@ -1,8 +1,0 @@
-version: 1.5.1
-path: blinkfeed-1.5.1-win32-x64.msi
-sha512: MQYHrFwV+PZO25KI3I1KM2U9hYEosqVgpfoU9e1RuSpMRdqJOe6A23WYJFxE0tO6EvkOIfbPztOE0L8ehEbykg==
-releaseDate: 2025-03-03T23:20:38.967Z
-files:
-  - url: blinkfeed-1.5.1-win32-x64.msi
-    sha512: MQYHrFwV+PZO25KI3I1KM2U9hYEosqVgpfoU9e1RuSpMRdqJOe6A23WYJFxE0tO6EvkOIfbPztOE0L8ehEbykg==
-    size: MQYHrFwV+PZO25KI3I1KM2U9hYEosqVgpfoU9e1RuSpMRdqJOe6A23WYJFxE0tO6EvkOIfbPztOE0L8ehEbykg==
